@@ -1,2 +1,2 @@
-# SergeiDubinin.github.io
+# Сергей Дубинин
 Мой первый сайт
